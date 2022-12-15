@@ -1,0 +1,15 @@
+.ad {
+    background-color: brown;
+    background-color: rgb(145, 255, 0);
+    padding: 100px 100px;
+    margin: 100px 100px;
+    border: 10px solid black;
+    border-radius: 50px;
+}
+
+#h5 {
+    background-color: blueviolet;
+}
+.myimage{
+    width: 200px;
+}
